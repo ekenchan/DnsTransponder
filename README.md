@@ -1,4 +1,4 @@
 DnsTransponder
 ==============
 
-Transpond UDP Dns query via TCP
+Transpond UDP Dns query via TCP.

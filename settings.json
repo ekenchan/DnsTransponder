@@ -1,0 +1,7 @@
+{
+  "bindAddr": "127.0.0.1",
+  "localPort": 53,
+  "remoteAddr": "8.8.8.8",
+  "remotePort": 53,
+  "debug": false
+}
